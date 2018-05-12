@@ -1,0 +1,43 @@
+_repo: Brave-Men-and-WomenTheir-Struggles-Failures-And-Triumphs_13942
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fuller, Osgood E. (Osgood Eaton)
+    aliases:
+    - Fuller, O. E. (Osgood Eaton)
+    - Fuller, Osgood Eaton
+    birthdate: 1835
+    deathdate: 1900
+    gutenberg_agent_id: '5297'
+    url: http://www.gutenberg.org/2009/agents/5297
+description: ''
+gutenberg_issued: '2004-11-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13942'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CT'
+- !lcsh 'Biography'
+tableOfContents: Benjamin Franklin -- Defence of a great man -- Sir Walter Scott and
+  his mother -- Abigail Adams -- Two neighbors -- Horace Greeley -- Wendell Phillips
+  -- Mary Wordsworth -- Madame Malibran -- Garfield maxims -- What I carried to college
+  -- Sir John Franklin -- Elizabeth Estaugh -- "Chinese" Gordon -- Men's wives --
+  Women's husbands -- John Ploughman -- Caroline Lucretia Herschel -- Pestiferous
+  literature -- Satisfied -- Heroes of science -- My Uncle Toby -- Stephen Girard
+  -- Disappointments -- The three kings -- Florence Nightingale -- Shy people -- John
+  Marshall -- A noble mother -- The care of the body -- Saint Cecilia -- Thomas De
+  Quincey -- A vision of time -- John Bunyan -- Madame Roland -- Cheerful and brave
+  -- Harold -- Peter Cooper -- Illusions -- Phillips Brooks -- St. John and the robber
+  -- John Ploughman again -- Henry Wilson -- Joan of Arc -- The song of work -- Alvan
+  S. Southworth -- A forbidden topic -- Ida Lewis Wilson -- Rachel Jackson -- Discontented
+  girls -- The voice in Ramah -- La Fayette -- Lydia Sigourney -- Old age and usefulness
+  -- Rhymes and chimes.
+title: 'Brave Men and Women: Their Struggles, Failures, And Triumphs'
+url: http://www.gutenberg.org/ebooks/13942
